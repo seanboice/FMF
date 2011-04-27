@@ -1,0 +1,595 @@
+[2011-04-27 11:05:31] request.INFO: Matched route "_configurator_home" (parameters: "_controller": "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::checkAction", "_route": "_configurator_home") 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:05:31] request.INFO: Using controller "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::checkAction" 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:05:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:05:32] request.INFO: Matched route "_configurator_step" (parameters: "_controller": "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::stepAction", "index": "0", "_route": "_configurator_step") 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:05:32] request.INFO: Using controller "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::stepAction" 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:05:32] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:05:33] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db830bcb91e5", "_route": "_wdt") 
+[2011-04-27 11:05:33] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:05:33] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:05:33] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:05:33] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:05:33] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:05:33] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:05:33] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:05:33] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:05:33] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:05:33] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:05:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:05:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:05:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:05:34] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:05:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:29] request.INFO: Matched route "_configurator_step" (parameters: "_controller": "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::stepAction", "index": "0", "_route": "_configurator_step") 
+[2011-04-27 11:06:29] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:29] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:29] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:29] request.INFO: Using controller "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::stepAction" 
+[2011-04-27 11:06:29] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:29] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:29] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:29] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:29] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:29] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:30] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:30] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:30] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:30] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:30] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:31] request.INFO: Matched route "_configurator_step" (parameters: "_controller": "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::stepAction", "index": "1", "_route": "_configurator_step") 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:31] request.INFO: Using controller "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::stepAction" 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:31] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db830f7649fc", "_route": "_wdt") 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:31] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:31] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:44] request.INFO: Matched route "_configurator_step" (parameters: "_controller": "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::stepAction", "index": "1", "_route": "_configurator_step") 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:44] request.INFO: Using controller "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::stepAction" 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:44] request.INFO: Matched route "_configurator_final" (parameters: "_controller": "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::finalAction", "_route": "_configurator_final") 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:44] request.INFO: Using controller "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::finalAction" 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:44] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:45] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db83104f1bf6", "_route": "_wdt") 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:45] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:45] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:54] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:54] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:54] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db8310e68096", "_route": "_wdt") 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:54] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:54] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:57] request.INFO: Matched route "_configurator_home" (parameters: "_controller": "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::checkAction", "_route": "_configurator_home") 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:57] request.INFO: Using controller "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::checkAction" 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:57] request.INFO: Matched route "_configurator_step" (parameters: "_controller": "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::stepAction", "index": "0", "_route": "_configurator_step") 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:57] request.INFO: Using controller "Symfony\Bundle\WebConfiguratorBundle\Controller\ConfiguratorController::stepAction" 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:06:57] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db83111adfc5", "_route": "_wdt") 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:06:57] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:06:57] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:01] request.INFO: Matched route "_demo" (parameters: "_controller": "Acme\DemoBundle\Controller\DemoController::indexAction", "_route": "_demo") 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:01] request.INFO: Using controller "Acme\DemoBundle\Controller\DemoController::indexAction" 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreView" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:01] event.DEBUG: Listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener" stopped propagation of the event "onCoreView". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:01] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db83115980b3", "_route": "_wdt") 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:01] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:01] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:04] request.INFO: Matched route "_demo_hello" (parameters: "_controller": "Acme\DemoBundle\Controller\DemoController::helloAction", "name": "World", "_route": "_demo_hello") 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:04] request.INFO: Using controller "Acme\DemoBundle\Controller\DemoController::helloAction" 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreView" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:04] event.DEBUG: Listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener" stopped propagation of the event "onCoreView". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:04] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:05] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db83118d5559", "_route": "_wdt") 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:05] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:05] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:10] request.INFO: Matched route "_demo_secured_hello" (parameters: "_controller": "Acme\DemoBundle\Controller\SecuredController::helloAction", "name": "World", "_route": "_demo_secured_hello") 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:10] security.INFO: Authentication exception occurred; redirecting to authentication entry point (A Token was not found in the SecurityContext.) 
+[2011-04-27 11:07:10] security.DEBUG: Calling Authentication entry point 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreException" to listener "Symfony\Component\Security\Http\Firewall\ExceptionListener". 
+[2011-04-27 11:07:10] event.DEBUG: Listener "Symfony\Component\Security\Http\Firewall\ExceptionListener" stopped propagation of the event "onCoreException". 
+[2011-04-27 11:07:10] event.DEBUG: Listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener" was not called for event "onCoreException". 
+[2011-04-27 11:07:10] event.DEBUG: Listener "Symfony\Component\HttpKernel\Debug\ExceptionListener" was not called for event "onCoreException". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\Security\Http\Firewall\ContextListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:10] request.INFO: Matched route "_demo_login" (parameters: "_controller": "Acme\DemoBundle\Controller\SecuredController::loginAction", "_route": "_demo_login") 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:10] request.INFO: Using controller "Acme\DemoBundle\Controller\SecuredController::loginAction" 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreView" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:10] event.DEBUG: Listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener" stopped propagation of the event "onCoreView". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:10] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db8311e5c838", "_route": "_wdt") 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:10] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:10] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:14] request.INFO: Matched route "_security_check" (parameters: "_controller": "Acme\DemoBundle\Controller\SecuredController::securityCheckAction", "_route": "_security_check") 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:14] security.DEBUG: Authentication request failed: Bad credentials 
+[2011-04-27 11:07:14] security.DEBUG: Redirecting to /demo/secured/login 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:14] event.DEBUG: Listener "Symfony\Component\Security\Http\Firewall" stopped propagation of the event "onCoreRequest". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\Security\Http\Firewall\ContextListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:14] request.INFO: Matched route "_demo_login" (parameters: "_controller": "Acme\DemoBundle\Controller\SecuredController::loginAction", "_route": "_demo_login") 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:14] request.INFO: Using controller "Acme\DemoBundle\Controller\SecuredController::loginAction" 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreView" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:14] event.DEBUG: Listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener" stopped propagation of the event "onCoreView". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:14] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db831224a1e7", "_route": "_wdt") 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:14] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:14] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:22] request.INFO: Matched route "_security_check" (parameters: "_controller": "Acme\DemoBundle\Controller\SecuredController::securityCheckAction", "_route": "_security_check") 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:22] security.DEBUG: User has been authenticated successfully 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:22] event.DEBUG: Listener "Symfony\Component\Security\Http\Firewall" stopped propagation of the event "onCoreRequest". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\Security\Http\Firewall\ContextListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:22] request.INFO: Matched route "_demo_secured_hello" (parameters: "_controller": "Acme\DemoBundle\Controller\SecuredController::helloAction", "name": "World", "_route": "_demo_secured_hello") 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:22] request.INFO: Using controller "Acme\DemoBundle\Controller\SecuredController::helloAction" 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreView" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:22] event.DEBUG: Listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener" stopped propagation of the event "onCoreView". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\Security\Http\Firewall\ContextListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:22] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db8312ac95f0", "_route": "_wdt") 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:22] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:22] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:29] request.INFO: Matched route "_demo_login" (parameters: "_controller": "Acme\DemoBundle\Controller\SecuredController::loginAction", "_route": "_demo_login") 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:29] request.INFO: Using controller "Acme\DemoBundle\Controller\SecuredController::loginAction" 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreView" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:29] event.DEBUG: Listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener" stopped propagation of the event "onCoreView". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:29] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db83131cedde", "_route": "_wdt") 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:29] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:29] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:30] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:30] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:30] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:30] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:30] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:34] request.INFO: Matched route "_demo" (parameters: "_controller": "Acme\DemoBundle\Controller\DemoController::indexAction", "_route": "_demo") 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:34] request.INFO: Using controller "Acme\DemoBundle\Controller\DemoController::indexAction" 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreView" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:34] event.DEBUG: Listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener" stopped propagation of the event "onCoreView". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:34] request.INFO: Matched route "_wdt" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction", "token": "4db83136097cb", "_route": "_wdt") 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:34] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:34] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:49] request.INFO: Matched route "_profiler" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::panelAction", "token": "4db8310e68096", "_route": "_profiler") 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:49] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::panelAction" 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:49] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:49] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::searchBarAction" 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:49] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:59] request.INFO: Matched route "_profiler" (parameters: "_controller": "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::panelAction", "token": "4db8310e68096", "_route": "_profiler") 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:59] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::panelAction" 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:59] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::toolbarAction" 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\RequestListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreRequest" to listener "Symfony\Component\Security\Http\Firewall". 
+[2011-04-27 11:07:59] request.INFO: Using controller "Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController::searchBarAction" 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RequestDataCollector". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ControllerAnnotationParser". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\Controller\ParamConverterListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "Acme\DemoBundle\ControllerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreController" to listener "JMS\SecurityExtraBundle\Controller\ControllerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Component\HttpKernel\ResponseListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\FrameworkBundle\Profiler\ProfilerListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\SecurityBundle\ResponseListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Sensio\Bundle\FrameworkExtraBundle\Cache\AnnotationCacheListener". 
+[2011-04-27 11:07:59] event.DEBUG: Notified event "onCoreResponse" to listener "Symfony\Bundle\WebProfilerBundle\WebDebugToolbarListener". 
